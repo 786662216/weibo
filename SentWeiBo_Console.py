@@ -18,11 +18,11 @@ u'''
 '''
 ################################################################################
 #新浪微博API的验证信息
-APP_KEY = '782542634' # app key
-APP_SECRET = 'b5e3473a613bd8c740dc6b3b2d2a9550' # app secret
+APP_KEY = '2333333' # app key
+APP_SECRET = '*^$%^&%$*%*%&*^' # app secret
 CALLBACK_URL = 'https://api.weibo.com/oauth2/default.html' # callback url
 
-access_token = "2.00VfLpvC05FTxq9a86b1e3f5rjTuVC"
+access_token = "suzhisanlianC"
 expires_in = 1660225135
 
 client = APIClient(app_key=APP_KEY, app_secret=APP_SECRET, redirect_uri=CALLBACK_URL)
