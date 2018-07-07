@@ -10,3 +10,4 @@ while True:
     else:
         os.system('ssserver -p 8000 -k password -m rc4-md5 -d start')
     time.sleep(1000)
+#nohup python -u ssguardian.py > ss.log &
