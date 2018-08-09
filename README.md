@@ -17,7 +17,7 @@
   
   -r, --random        -r 每天从以上内容中随机选择一种发送
   
-  例如 python SentWeiBo_Console.py -h 19 -p 就是每天19点发送一次图片
+  例如 python SentWeiBo_Console.py -t 19 -p 就是每天19点发送一次图片
   
 2、添加了随机发图片的功能，之前只有报时功能。只要把文件放到和脚本同一目录下的pic文件夹中即可
 
