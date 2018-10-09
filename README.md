@@ -7,17 +7,17 @@
 
 1、命令行选项
 
-  -h, --help          show this help message and exit
-  
-  -t T, --time=T      -t 设定每天几点发。如 -t 8；默认4点发，24小时制。
-  
-  -p, --picture       -p 随机发送图片
-  
-  -y, --yingyingying  -y 报时+卖萌
-  
-  -r, --random        -r 每天从以上内容中随机选择一种发送
-  
-  例如 python SentWeiBo_Console.py -t 19 -p 就是每天19点发送一次图片
+      -h, --help          show this help message and exit
+
+      -t T, --time=T      -t 设定每天几点发。如 -t 8；默认4点发，24小时制。
+
+      -p, --picture       -p 随机发送图片
+
+      -y, --yingyingying  -y 报时+卖萌
+
+      -r, --random        -r 每天从以上内容中随机选择一种发送
+
+      例如 python SentWeiBo_Console.py -t 19 -p 就是每天19点发送一次图片
   
 2、添加了随机发图片的功能，之前只有报时功能。只要把文件放到和脚本同一目录下的pic文件夹中即可
 
